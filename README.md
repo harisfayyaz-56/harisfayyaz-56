@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm M. Haris Fayyaz from Lahore, Pakistan<br><br>- 🔭 I’m a sophomore at FAST NUCES, Lahore.<br>- 📚 I'm currently studying BCS learning various languages to code.<br>- ⚡ In my free time I play sports mainly badminton, football</p>
+<p align="left">I'm M. Haris Fayyaz from Lahore, Pakistan<br><br>- 🔭 I’m a sophomore at FAST NUCES, Lahore.<br>- 📚 I'm currently studying BCS, learning various languages to code.<br>- ⚡ In my free time I play sports mainly badminton, football</p>
 
 ###
 
