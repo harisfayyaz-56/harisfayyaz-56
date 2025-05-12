@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/haris-fayyaz-6090262a7/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="x.com/HarisFayyaz261" target="_blank">
+  <a href="https://x.com/HarisFayyaz261" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
   <a href="https://instagram.com/harisfayyaz.56" target="_blank">
